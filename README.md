@@ -1,2 +1,2 @@
-# music-timer
-A small app written in Pythonista for iOS that automatically generates and plays songs that total a certain duration.
+# Music Timer
+Do you need a 10-minute timer so you don't spend too long in the shower? Or are you tired of having the same 1-hour workout playlist? If so, this program can help! It's small app written in Pythonista for iOS that automatically generates and plays songs that total a certain duration. It automatically accesses the music in your library, and you can even configure it to only pick songs from one of your playlists, only choose songs by certain artists, or make sure that a few of your personal favourite songs are included.
